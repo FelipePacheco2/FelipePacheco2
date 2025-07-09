@@ -19,7 +19,7 @@ O que ainda busco? Um pouco mais de **experiência de mercado** para colocar tud
 ## 🧰 Tecnologias e ferramentas que estou aprendendo:
 
 - 🐍 Python
-- 📊 Pandas, NumPy, Matplotlib, Seaborn
+- 📊 Pandas, NumPy, Matplotlib, streamlit
 - 📈 Jupyter Notebook
 - 🗂️ Git e GitHub
 - 🌐 (Aprendendo também sobre APIs e Web scraping em breve!)
@@ -35,7 +35,7 @@ Me aprofundar em **ciência de dados**, construir projetos reais e compartilhar 
 ## ✨ Curiosidades
 
 - 🔎 Sempre tenho novas ideias (às vezes até demais 😅)
-- 🎨 Adoro transformar dados em gráficos compreensíveis
+- 🎨 Acho incrivel criar coisas 
 - 🌱 Estou em busca de oportunidades de estágio na área de dados
 
 ---
