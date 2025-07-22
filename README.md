@@ -1,50 +1,59 @@
-# 👋 Olá, eu sou o Felipe Pacheco!
+## Olá, meu nome é {seu nome}!
 
-🎓 Estudante de Ciência da Computação | 📊 Focado em Análise de Dados  
-📍 Campo Grande - MS, Brasil
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ---
 
-## 🚀 Sobre mim
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
-Desde pequeno sempre fui apaixonado por tecnologia. Comecei programando pequenos projetos em várias linguagens diferentes, mas sempre de forma superficial. Ao entrar na faculdade, percebi que sabia "um pouco de tudo", mas não me aprofundava em nada.
-
-Então, decidi mudar isso: escolhi **Python** como linguagem principal e **Análise de Dados** como área de especialização.
-
-Gosto de criar, aprender e dar vida às minhas ideias através de dados e código. Sou criativo, curioso e sempre tento transformar minhas dúvidas em aprendizado.  
-O que ainda busco? Um pouco mais de **experiência de mercado** para colocar tudo isso em prática!
-
----
-
-## 🧰 Tecnologias e ferramentas que estou aprendendo:
-
-- 🐍 Python
-- 📊 Pandas, NumPy, Matplotlib, streamlit
-- 📈 Jupyter Notebook
-- 🗂️ Git e GitHub
-- 🌐 (Aprendendo também sobre APIs e Web scraping em breve!)
-
----
-
-## 🎯 Objetivo atual
-
-Me aprofundar em **ciência de dados**, construir projetos reais e compartilhar meu progresso com a comunidade.
-
----
-
-## ✨ Curiosidades
-
-- 🔎 Sempre tenho novas ideias (às vezes até demais 😅)
-- 🎨 Acho incrivel criar coisas 
-- 🌱 Estou em busca de oportunidades de estágio na área de dados
-
----
-
-## 🌐 Contato
-
-*Em breve redes sociais por aqui...*
-
----
-
-> _"Quem nunca começou, nunca teve chance de evoluir."_ 🚀
-
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
