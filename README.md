@@ -1,4 +1,6 @@
-Olá, mundo! Me chamo Felipe.
+
+### Olá, mundo! Me chamo Felipe.
+
 Se você chegou até aqui, seja bem-vindo ao meu espaço, um lugar onde compartilho um pouco da minha jornada como programador.
 
 Recentemente, parei para refletir sobre o caminho que tenho trilhado. Fiz muitos cursos, estudei diversas linguagens, aprendi frameworks e ferramentas, tudo de forma um pouco superficial. Não tenho uma linguagem favorita e, com o tempo, percebi que muitas delas são parecidas na essência.
