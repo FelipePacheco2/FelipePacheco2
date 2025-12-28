@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 **Sobre mim**
-- 🤔 Desenvolvedor Java Júnior |  BSpringoot | MySQL | API REST
+- 🤔 Desenvolvedor Java Júnior | BSpringoot | MySQL | API REST
 - 🎓 Estudando Ciência da Computação na Uniderp.
 - 💼 Procurando meu primeiro emprego na area
 - 🌱 Aprendendo mais sobre Java, Spring Boot e MySQL para desenvolvimento Back-end.
