@@ -2,8 +2,6 @@
 ### Olá, mundo! Me chamo Felipe.
 
 Estudante de Ciência da Computação com foco em back-end, buscando aprender com propósito. Mais do que decorar comandos, quero entender o que acontece por trás do código.
-Já explorei diversas linguagens, ferramentas e conceitos, e percebi como muitos deles se conectam de forma surpreendente. Atualmente, estou estudando Python e Java.
-Sou autodidata, aprendo rápido e me adapto com facilidade. Acredito que ser um bom dev vai além de saber programar. É sobre pensar, testar, errar, entender e continuar evoluindo. Sigo estudando, praticando e aprendendo no meu ritmo, um passo de cada vez.
 
 ### ⚙️ GitHub Analytics
 
