@@ -1,15 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## Sobre mim
-
+**Sobre mim**
 - 🤔 Desenvolvedor Java Júnior |  BSpringoot | MySQL | API REST
 - 🎓 Estudando Ciência da Computação na Uniderp.
 - 💼 Procurando meu primeiro emprego na area
 - 🌱 Aprendendo mais sobre Java, Spring Boot e MySQL para desenvolvimento Back-end.
 
-## Minhas Skills
-
-**Aplicações e dados**
+**Minhas Skills**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -22,7 +19,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3drYWNkcGQ4ZGJyNDUxbmdmaTgxZXV5NzJzcGR4bzVjMjQ1anJsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ## Onde me encontrar
 
