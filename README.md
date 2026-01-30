@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhwaGQ1Zm5kcW5iOXNtbmd1ZGRxYTNmb3hoaXdtaXJpbm0xenppYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif' title="Meu esforço vai valer apena" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 **Sobre mim**
 - 🤔 Desenvolvedor Java Júnior | Spring Boot | MySQL | API REST
@@ -22,7 +22,7 @@
 
 
 
-<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3drYWNkcGQ4ZGJyNDUxbmdmaTgxZXV5NzJzcGR4bzVjMjQ1anJsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtybHFuaHU3bGdvcnkwcG1uZjZncnJrZWZxMHVpZHF1ZGEyNjczdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif' title="Eu vou conseguir" alt="Please refresh the page if the meme doesn't show up.">
 
 ## Onde me encontrar
 
