@@ -22,7 +22,7 @@
 
 
 
-<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtybHFuaHU3bGdvcnkwcG1uZjZncnJrZWZxMHVpZHF1ZGEyNjczdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif' title="Eu vou conseguir" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdiNWpkcmNveTBjZGo2bWJjNmRhZGs2ODFqbTdlYW56d2JrN3VubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif' title="Eu vou conseguir" alt="Please refresh the page if the meme doesn't show up.">
 
 ## Onde me encontrar
 
