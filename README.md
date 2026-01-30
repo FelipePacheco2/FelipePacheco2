@@ -1,4 +1,4 @@
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh1Nmdjb2V1djN0YXd0OGZyZ2gzdTJsank5aW5oN3lzbnk4Y29reCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yMeWb71QlszXg70gZj/giphy.gif' title="Meu esforço vai valer apena" alt="ilustração de um computador" min-width="300px" max-width="300px" width="400px" align="right">
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhwaGQ1Zm5kcW5iOXNtbmd1ZGRxYTNmb3hoaXdtaXJpbm0xenppYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif' title="Meu esforço vai valer apena" alt="ilustração de um computador" min-width="300px" max-width="300px" width="400px" align="right">
 
 **Sobre mim**
 - 🤔 Desenvolvedor Java Júnior | Spring Boot | MySQL | API REST
