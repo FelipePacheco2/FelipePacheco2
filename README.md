@@ -18,9 +18,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-
-
-<img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmdiNWpkcmNveTBjZGo2bWJjNmRhZGs2ODFqbTdlYW56d2JrN3VubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxbHmvL3MGcctzlfdX/giphy.gif' title="Eu vou conseguir" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExano2bmJhZHl3dDY2dWFlODllcWFlbnkweDRoZ3FiMmd1b2Z6MHhhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vQqeT3AYg8S5O/giphy.gif' title="Eu vou conseguir" alt="Please refresh the page if the meme doesn't show up.">
 
 ## Onde me encontrar
 
