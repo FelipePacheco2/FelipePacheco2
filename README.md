@@ -23,11 +23,11 @@
 ## Onde me encontrar
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:seuemail@exemplo.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/notifications/?filter=all" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-pacheco-642270297/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5567992188606?text=Ol%C3%A1!%20Estava%20olhando%20seu%20GitHub%20e%20achei%20seus%20projetos%20bem%20legais.%20Gostaria%20de%20conversar!" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ars.felip/?igsh=cXRucDhwZXp6dGp3#" alt="Instagram"/></a>
