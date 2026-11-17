@@ -69,11 +69,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipePacheco2&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco2&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=FelipePacheco2&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 </p>
 
