@@ -1,34 +1,90 @@
-**Sobre mim**
-- 🤔 Desenvolvedor Java Júnior | Spring Boot | MySQL | API REST
-- 🎓 Estudando Ciência da Computação na Uniderp.
-- 💼 Procurando meu primeiro emprego na area
-- 🌱 Aprendendo mais sobre Java, Spring Boot e MySQL para desenvolvimento Back-end.
+<h1 align="center">Olá, eu sou o Felipe Pacheco 👋</h1>
 
-**Minhas Skills**
+<p align="center">
+  <a href="https://github.com/FelipePacheco2">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Java+%E2%98%95;Spring+Boot+%7C+APIs+REST+%7C+SQL;Em+busca+da+minha+primeira+oportunidade+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-pacheco-642270297/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:felipecaballeropacheco@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://wa.me/5567992188606?text=Ol%C3%A1!%20Estava%20olhando%20seu%20GitHub%20e%20achei%20seus%20projetos%20bem%20legais.%20Gostaria%20de%20conversar!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/ars.felip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
+---
 
-**Utilidades**
+### 🧑‍💻 Sobre mim
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](#)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+- 🎓 Estudante de **Ciência da Computação** na Uniderp — Campo Grande, MS
+- ☕ Desenvolvedor **Back-end Java** com foco em **Spring Boot** e **APIs REST**
+- 🗄️ Modelagem de dados com **JPA/Hibernate**, **MySQL** e **PostgreSQL**
+- 🐳 Explorando **Docker**, **Flyway** e boas práticas de arquitetura
+- 💼 Procurando minha **primeira oportunidade** na área — bora conversar!
 
+---
 
-<img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExano2bmJhZHl3dDY2dWFlODllcWFlbnkweDRoZ3FiMmd1b2Z6MHhhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vQqeT3AYg8S5O/giphy.gif' title="Eu vou conseguir" alt="Please refresh the page if the meme doesn't show up.">
+### 🛠️ Tecnologias
 
-## Onde me encontrar
+**Back-end**
 
-<p align="left">
-  <a href="mailto:seuemail@exemplo.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/notifications/?filter=all" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-pacheco-642270297/" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5567992188606?text=Ol%C3%A1!%20Estava%20olhando%20seu%20GitHub%20e%20achei%20seus%20projetos%20bem%20legais.%20Gostaria%20de%20conversar!" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ars.felip/?igsh=cXRucDhwZXp6dGp3#" alt="Instagram"/></a>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+**Banco de dados**
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway"/>
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
+</p>
+
+---
+
+### 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**vitrine-do-vendedor-api**](https://github.com/FelipePacheco2/vitrine-do-vendedor-api) | API REST que importa estoque de lojas via CSV | Java · Spring Boot · PostgreSQL · Flyway · Docker |
+| [**agrotrack-api**](https://github.com/FelipePacheco2/agrotrack-api) | API para pesagem e manejo animal | Java · Spring Boot · MySQL |
+| [**SpringStock**](https://github.com/FelipePacheco2/SpringStock) | Controle e rastreabilidade de estoque (entradas e saídas) | Java · Spring Boot · JPA/Hibernate |
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipePacheco2&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePacheco2&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FelipePacheco2&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipePacheco2&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExano2bmJhZHl3dDY2dWFlODllcWFlbnkweDRoZ3FiMmd1b2Z6MHhhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vQqeT3AYg8S5O/giphy.gif" width="250" title="Eu vou conseguir" alt="Eu vou conseguir"/>
+  <br/>
+  <i>"Eu vou conseguir!"</i> 💪
 </p>
