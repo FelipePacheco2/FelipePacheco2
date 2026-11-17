@@ -75,11 +75,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipePacheco2&theme=tokyo-night&hide_border=true" alt="Gráfico de contribuições"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExano2bmJhZHl3dDY2dWFlODllcWFlbnkweDRoZ3FiMmd1b2Z6MHhhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vQqeT3AYg8S5O/giphy.gif" width="250" title="Eu vou conseguir" alt="Eu vou conseguir"/>
-  <br/>
-  <i>"Eu vou conseguir!"</i> 💪
-</p>
